@@ -1,4 +1,4 @@
-package com.zunda_lab.jenkins_sample.servlet;
+package main.java.com.zunda_lab.jenkins_sample.servlet;
 
 import java.io.IOException;
 
@@ -9,8 +9,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.zunda_lab.jenkins_sample.model.BmiBean;
-import com.zunda_lab.jenkins_sample.model.HealthCheck;
+import main.java.com.zunda_lab.jenkins_sample.model.BmiBean;
+import main.java.com.zunda_lab.jenkins_sample.model.HealthCheck;
 
 /**
  * BMIサーブレットクラス.

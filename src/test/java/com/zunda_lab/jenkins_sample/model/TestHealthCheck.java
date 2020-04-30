@@ -1,11 +1,13 @@
 /**
  *
  */
-package com.zunda_lab.jenkins_sample.model;
+package test.java.com.zunda_lab.jenkins_sample.model;
 
 import org.junit.Test;
 
 import junit.framework.TestCase;
+import main.java.com.zunda_lab.jenkins_sample.model.BmiBean;
+import main.java.com.zunda_lab.jenkins_sample.model.HealthCheck;
 
 /**
  * @author ono

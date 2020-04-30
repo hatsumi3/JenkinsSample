@@ -2,4 +2,4 @@
  * @author ono
  *
  */
-package com.zunda_lab.jenkins_sample.servlet;
+package main.java.com.zunda_lab.jenkins_sample.servlet;

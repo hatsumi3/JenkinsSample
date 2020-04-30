@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<%@ page import="com.zunda_lab.jenkins_sample.model.BmiBean"%>
+<%@ page import="main.java.com.zunda_lab.jenkins_sample.model.BmiBean"%>
 <%
     //リクエストスコープに保存されたHealthBeanインスタンスを取得
     BmiBean health = (BmiBean) request.getAttribute("health");
